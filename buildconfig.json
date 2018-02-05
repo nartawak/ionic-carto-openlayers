@@ -1,0 +1,10 @@
+{
+  "ios": {
+    "release": {
+      "codeSignIdentity": "iPhone Distribution",
+      "developmentTeam": "4BUCAUES66",
+      "packageType": "ad-hoc",
+      "provisioningProfile": "7b6460fc-f806-4ca6-b22f-1c08025fcaec"
+    }
+  }
+}
